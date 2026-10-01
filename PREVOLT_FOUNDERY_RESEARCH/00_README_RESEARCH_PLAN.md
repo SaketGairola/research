@@ -52,7 +52,7 @@ See `EXECUTIVE_FINDINGS.md` for the synthesis, and `SOURCE_REGISTER.csv` for eve
 - **No primary research was conducted:** no interviews, tastings or manufacturer contacts. All such items are plans.
 
 ### Link audit
-All 61 unique URLs in `SOURCE_REGISTER.csv` were re-requested on 1 Oct 2026. 58 returned HTTP 200/203. Amazon search (S35) and Google Patents (S63) rate-limit automated checks (503); both were read in a rendered browser session the same day. Peer-reviewed items link to PubMed because publisher DOI pages return 403 to automated clients; DOIs are recorded in the methodology column.
+All 61 unique URLs in `SOURCE_REGISTER.csv` were re-requested on 1 Oct 2026. 59 returned HTTP 200/203 (PubMed links were spot-checked after replacing DOI links). Amazon search (S35) and Google Patents (S63) rate-limit automated checks (503); both were read in a rendered browser session the same day. Peer-reviewed items link to PubMed because publisher DOI pages return 403 to automated clients; DOIs are recorded in the methodology column.
 
 ### Definitions and dates checked
 - Market figures are energy-drink-only. Sports drinks, electrolyte powders and soft drinks were excluded, including Amazon search noise.
